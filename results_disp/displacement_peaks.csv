@@ -1,0 +1,16 @@
+file,method,range_m,angle_deg,x_m,rms_um
+adc_data_2026-11-02_18-27-33_staticboard,lcmv,1.310,4.0,0.091,29.76
+adc_data_2026-11-02_18-27-33_staticboard,bartlett,1.310,4.0,0.091,29.78
+adc_data_2026-11-02_18-27-33_staticboard,mvdr,1.353,4.0,0.094,189.40
+adc_data_2026-11-02_18-28-31_leftsidemov,lcmv,1.310,4.0,0.091,144.07
+adc_data_2026-11-02_18-28-31_leftsidemov,bartlett,1.310,4.0,0.091,144.11
+adc_data_2026-11-02_18-28-31_leftsidemov,mvdr,1.353,1.0,0.024,1266.76
+adc_data_2026-11-02_18-29-31_leftsidemovdown,lcmv,1.396,-9.0,-0.218,628.02
+adc_data_2026-11-02_18-29-31_leftsidemovdown,bartlett,1.396,-9.0,-0.218,632.24
+adc_data_2026-11-02_18-29-31_leftsidemovdown,mvdr,1.396,-10.0,-0.242,635.52
+adc_data_2026-11-02_18-31-02_rightside,lcmv,1.396,15.0,0.361,3444.30
+adc_data_2026-11-02_18-31-02_rightside,bartlett,1.396,15.0,0.361,2297.93
+adc_data_2026-11-02_18-31-02_rightside,mvdr,1.396,4.0,0.097,2742.87
+adc_data_2026-11-02_18-31-49_rightsidedown,lcmv,1.310,4.0,0.091,77.37
+adc_data_2026-11-02_18-31-49_rightsidedown,bartlett,1.310,4.0,0.091,76.08
+adc_data_2026-11-02_18-31-49_rightsidedown,mvdr,1.396,3.0,0.073,2773.59

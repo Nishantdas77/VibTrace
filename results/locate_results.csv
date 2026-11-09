@@ -1,0 +1,16 @@
+file,bins,method,angle_deg,x_m,true_x_m,error_m
+left,28 29 30 31 32,Bartlett,-24.21,-0.495,nan,nan
+left,28 29 30 31 32,Null steering,-24.14,-0.493,nan,nan
+left,28 29 30 31 32,MVDR,-24.11,-0.492,nan,nan
+midleft,27 28 29 30 31,Bartlett,-14.14,-0.277,nan,nan
+midleft,27 28 29 30 31,Null steering,-13.82,-0.271,nan,nan
+midleft,27 28 29 30 31,MVDR,-14.62,-0.287,nan,nan
+mid,26 27 28 29 30,Bartlett,2.86,0.055,nan,nan
+mid,26 27 28 29 30,Null steering,2.82,0.054,nan,nan
+mid,26 27 28 29 30,MVDR,1.91,0.037,nan,nan
+midright,27 28 29 30 31,Bartlett,17.92,0.356,nan,nan
+midright,27 28 29 30 31,Null steering,18.15,0.361,nan,nan
+midright,27 28 29 30 31,MVDR,18.31,0.364,nan,nan
+right,26 27 28 29 30,Bartlett,3.02,0.058,nan,nan
+right,26 27 28 29 30,Null steering,2.86,0.055,nan,nan
+right,26 27 28 29 30,MVDR,1.25,0.024,nan,nan
